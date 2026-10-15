@@ -24,18 +24,6 @@ How:
 |---|---|
 | <img src="https://raw.githubusercontent.com/chrislaupama/nota-site/pr-assets-qsdspf/site/hero-dark.jpg" width="440"> | <img src="https://raw.githubusercontent.com/chrislaupama/nota-site/pr-assets-qsdspf/site/hero-light.jpg" width="440"> |
 
-**Hero main window.** Before, a hand-built Ember mock; after, rendered from the latest app.
-
-<img src="https://raw.githubusercontent.com/chrislaupama/nota-site/pr-assets-qsdspf/site/compare-hero.png" width="640">
-
-**Nota Remote phone.** Before, an interactive mock; after, screenshots of the real Remote web app.
-
-<img src="https://raw.githubusercontent.com/chrislaupama/nota-site/pr-assets-qsdspf/site/compare-phone.png" width="640">
-
-**Settings → Downloads.** Before, a hand-built mock; after, rendered from the latest app.
-
-<img src="https://raw.githubusercontent.com/chrislaupama/nota-site/pr-assets-qsdspf/site/compare-settings.png" width="640">
-
 <details><summary>The whole page in both themes</summary>
 
 | Studio Dark | Studio Light |
